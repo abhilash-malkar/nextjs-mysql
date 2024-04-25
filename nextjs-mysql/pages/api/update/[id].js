@@ -1,4 +1,4 @@
-import connection from 'C:/xampp/htdocs/newcrud/app/db.js';
+import connection from 'C:/xampp/htdocs/nextjs-mysql/nextjs-mysql/app/db.js';
 
 export default async function handler(req, res) {
   if (req.method === 'PUT') {
