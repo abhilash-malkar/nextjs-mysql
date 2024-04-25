@@ -1,4 +1,4 @@
-import Formm from 'C:/xampp/htdocs/nextjs-mysql/app/Form.js';
+import Formm from '../app/Form.js';
 export default function Home() {
 
   return (
