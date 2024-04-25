@@ -6,7 +6,7 @@
 + Update existing data in the database
 + Delete data from the database
 # File Structure
-## All API's for Add,Update,Delete,Fetch are in pages/api folder
-## Form.js has all front end code 
++ All API's for Add,Update,Delete,Fetch are in pages/api folder
++ Form.js has all front end code 
 
 
